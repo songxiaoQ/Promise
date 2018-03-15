@@ -25,6 +25,6 @@ new Promise(resolve => {
   .then( () => {
   	console.log('... and here');
   })
-  // .catch( err => {
-  //   console.log('No, I catch: ', err);
-  // });
+  .catch( err => {
+    console.log('No, I catch: ', err);
+  });

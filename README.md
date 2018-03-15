@@ -1,3 +1,6 @@
+
+[幕课网Promise入门视频源码](https://www.imooc.com/learn/949)
+
 ### 目录
 
 - [Promise 的设计详解](https://github.com/songxiaoQ/Promise-simple/blob/master/Promise%E8%AE%BE%E8%AE%A1%E8%AF%A6%E8%A7%A3.js)

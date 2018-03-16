@@ -13,4 +13,12 @@
 - [Promise 捕获内部异常-catch 捕获](https://github.com/songxiaoQ/Promise-simple/blob/master/error.js)
 - [Promise 捕获内部异常-reject 响应捕获](https://github.com/songxiaoQ/Promise-simple/blob/master/error-reject.js)
 - [.catch() 后添加 .then()](https://github.com/songxiaoQ/Promise-simple/blob/master/catch-then.js)
+- [实现爬虫，半成品](https://github.com/songxiaoQ/Promise-simple/blob/master/spider.js)
+- [Promise.all()](https://github.com/songxiaoQ/Promise-simple/blob/master/all.js)
+- [Promise.all() 与 .map() 连用](https://github.com/songxiaoQ/Promise-simple/blob/master/map.js)
+- [Promise.resolve()](https://github.com/songxiaoQ/Promise-simple/blob/master/resolve.js)
+- [Promise.reject()](https://github.com/songxiaoQ/Promise-simple/blob/master/reject.js)
+- [Promise.race()](https://github.com/songxiaoQ/Promise-simple/blob/master/race.js)
+- [把回调包装成 Promise](https://github.com/songxiaoQ/Promise-simple/blob/master/wrap.js)
+- 
 

@@ -6,7 +6,7 @@ console.log('here we go');
 
 Promise.all([1, 2, 3])
   .then( all => {
-  	console.log('1: ', all);
+  	console.log('1: ', all); 
   	return Promise.all([ function () {
   		console.log('ooxx');
   	}, 'xxoo', false]);

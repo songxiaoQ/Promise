@@ -20,5 +20,6 @@
 - [Promise.reject()](https://github.com/songxiaoQ/Promise-simple/blob/master/reject.js)
 - [Promise.race()](https://github.com/songxiaoQ/Promise-simple/blob/master/race.js)
 - [把回调包装成 Promise](https://github.com/songxiaoQ/Promise-simple/blob/master/wrap.js)
-- 
+- [Fetch API](https://github.com/songxiaoQ/Promise-simple/blob/master/fetch-api.js)
+- [async/await](https://github.com/songxiaoQ/Promise-simple/blob/master/await.js)
 
